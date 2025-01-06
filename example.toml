@@ -1,0 +1,16 @@
+# toml範例
+
+[general]
+name = "John Doe"        # 字串
+age = 30                 # 整數
+height = 5.9             # 浮點數
+is_active = true         # 布林值
+
+[address]
+street = "123 Main St"
+city = "Springfield"
+postal_code = 12345
+
+[preferences]
+languages = ["English", "Spanish"]  # 陣列
+scores = [98.5, 77.3, 88.4]         # 陣列
